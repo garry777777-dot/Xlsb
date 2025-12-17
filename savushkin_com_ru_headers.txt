@@ -1,0 +1,15 @@
+HTTP/2 200 
+server: nginx
+date: Wed, 17 Dec 2025 12:34:10 GMT
+content-type: text/html; charset=UTF-8
+x-powered-by: PHP/7.2.34
+p3p: policyref="/bitrix/p3p.xml", CP="NON DSP COR CUR ADM DEV PSA PSD OUR UNR BUS UNI COM NAV INT DEM STA"
+x-powered-cms: Bitrix Site Manager (463698bb6f0a14ea1e0ad205f7a87900)
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+set-cookie: PHPSESSID=d84db97bfc7e0efc8c9470e6f90c52be; path=/; HttpOnly
+set-cookie: USER_SITE=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+set-cookie: USER_SITE=s1; expires=Sun, 21-Dec-2025 16:34:10 GMT; Max-Age=360000; path=/
+content-encoding: gzip
+
