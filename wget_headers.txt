@@ -1,0 +1,17 @@
+--2025-12-17 12:33:35--  https://savushkin.ru/
+Resolving savushkin.ru (savushkin.ru)... 92.53.96.20, 2a03:6f00:1::5c35:6014
+Connecting to savushkin.ru (savushkin.ru)|92.53.96.20|:443... connected.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.26.3
+  Date: Wed, 17 Dec 2025 12:33:36 GMT
+  Content-Type: text/html; charset=utf-8
+  Content-Length: 0
+  Connection: keep-alive
+Length: 0 [text/html]
+Saving to: ‘/workspace/savushkin_ru_home_wget.html’
+
+     0K                                                        0.00 =0s
+
+2025-12-17 12:33:36 (0.00 B/s) - ‘/workspace/savushkin_ru_home_wget.html’ saved [0/0]
+
